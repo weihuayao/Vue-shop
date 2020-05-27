@@ -9,7 +9,7 @@ module.exports = {
 
     // Paths
     assetsSubDirectory: 'static',
-    assetsPublicPath: '/',
+    assetsPublicPath:'/',
     proxyTable: {
       // '/api': { // 匹配所有以'/api'开头的请求路径
       //   target: 'http://localhost:4000', // 代理目标的基础路径
@@ -58,7 +58,6 @@ module.exports = {
     // Paths
     assetsRoot: path.resolve(__dirname, '../dist'),
     assetsSubDirectory: 'static',
-    assetsPublicPath: './',
 
     /**
      * Source Maps

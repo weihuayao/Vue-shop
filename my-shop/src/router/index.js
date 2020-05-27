@@ -59,17 +59,21 @@ export default new VueRouter({
     {
       path: '/shop',
       component: Shop,
+      redirect: '/shop/goods',
       children: [
         {
           path: '/shop/goods',
+          name: 'ShopGoods',
           component: ShopGoods
         },
         {
           path: '/shop/info',
+          name: 'ShopInfos',
           component: ShopInfos
         },
         {
           path: '/shop/ratings',
+          name: 'ShopRatings',
           component: ShopRatings
         }
       ]

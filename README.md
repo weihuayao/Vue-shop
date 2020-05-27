@@ -12,3 +12,6 @@
 - 使用stylus预编译
 - 采取css sticky footer 和flex布局
 
+## 项目预览
+
+![1590576499733](assets/1590576499733.png)
