@@ -14,4 +14,5 @@
 
 ## 项目预览
 
-![assets/1590576499733.png](assets/1590576499733.png)
+ ![image](https://github.com/weihuayao/Vue-shop/blob/master/assets/1590576499733.png)
+ 
